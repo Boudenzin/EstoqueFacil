@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <main.class>br.ufpb.estoquefacil.Main</main.class>
+        <main.class>br.ufpb.estoquefacil.App</main.class>
     </properties>
 
     <dependencies>
